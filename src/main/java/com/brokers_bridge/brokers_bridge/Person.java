@@ -2,7 +2,7 @@ package com.brokers_bridge.brokers_bridge;
 
 import java.util.Objects;
 
-public abstract class Person {
+public class Person {
 
     private String name;
     private String email;
